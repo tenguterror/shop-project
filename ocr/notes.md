@@ -37,6 +37,7 @@ Tesseract read the heat number correctly: `Heat # | 1202077680`
 5. No spaces in code filenames ('get _heat.py' -> get_heat.py).
    Python can't import a module with a space in its name.
 6. Habit: PREDICT the output, RUN, then VERIFY with ls.
+7. Label = clue, but labels vary, OCR misspells them, and tables put them in headers.
 
 ## The lot-number trap (first real parsing lesson)
 grep found 3 matches; only 1 was the heat number:
