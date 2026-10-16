@@ -55,3 +55,12 @@ a number that's only part of a longer one?
 - Answer the open question (on paper first)
 - Try a SIDEWAYS page (page 1, Searing) and see what Tesseract does
 - Set up a venv when the first real Python starts
+
+## Predicitions
+- Searing will have garbage since it is sideways 
+
+##To DO
+- [ ] rename searing_page-1_rot.txt -> _rot90.txt
+- [ ] move notes.md + get_heat.py out of ocr/
+- [ ] .gitignore: add *.jpeg, uppercase extensions, ignore ocr/
+- [ ] git status shows nucor_page-3.txt is already committed (cert data in repo history) - decide what to do
