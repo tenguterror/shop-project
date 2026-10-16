@@ -1,3 +1,5 @@
-*.pdf
-*.png
-*.jpg
+*.[pP][dD][fF]
+*.[pP][nN][gG]
+*.[jJ][pP][gG]
+*.[jJ][pP][eE][gG]
+ocr/
